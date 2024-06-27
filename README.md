@@ -1,3 +1,5 @@
+![Jean Assoumani](github-bann.png)
+
 ## Bienvenue ! 👋
 
 ## À propos de moi
