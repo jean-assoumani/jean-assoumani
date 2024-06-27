@@ -5,7 +5,7 @@
 
 ## À propos de moi
 
-Je m'appelle Jean et je suis actuellement en formation de développeur web avec une spécialisation WordPress chez OpenClassrooms, je suis un passionné de la technologie, j'adore coder et développer des sites et application Internet.
+Je m'appelle Jean et je suis actuellement en formation de développeur web avec une spécialisation WordPress chez OpenClassrooms, je suis un passionné de la technologie, j'adore coder et développer des sites Internet, des applications, et c'est un plaisir de partager avec vous ! 🙂
 
 ## Projets
 
