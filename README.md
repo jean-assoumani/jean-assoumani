@@ -16,7 +16,8 @@ Pendant ma formation chez OpenClassrooms, j'ai eu l'occasion de travailler sur p
 - **HTML/CSS** : <br>
   - [Riding Cities](https://github.com/jean-assoumani/riding-cities) Premiers pas sur le language HTML<br>
   - [Booki](https://github.com/jean-assoumani/booki) Créez la page d'accueil d'une agence de voyage avec HTML & CSS
-- **JavaScript/CSS** : [Studio d'animation - Koukaki](https://github.com/jean-assoumani/studio-koukaki) Améliorez le site d'un studio d'animation avec JavaScript et des animations CSS
+- **JavaScript/CSS** : <br>
+  - [Studio d'animation - Koukaki](https://github.com/jean-assoumani/studio-koukaki) Améliorez le site d'un studio d'animation avec JavaScript et des animations CSS
 - **En ligne bientôt** : 
 
 ## Où me trouver !
