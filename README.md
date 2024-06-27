@@ -14,12 +14,12 @@ Je m'appelle Jean et je suis actuellement en formation de développeur web avec 
 Pendant ma formation chez OpenClassrooms, j'ai eu l'occasion de travailler sur plusieurs projets intéressants, je suis en train de finaliser ces projets pour les mettre en ligne ici dès possible. N'hésite pas à revenir voir mes réalisations et à me donner ton avis ! :
 
 - **WordPress** : <br>
-  - Créez un site complet avec WordPress sans utiliser de code: [Simpl-Vintage](https://github.com/jean-assoumani/simpl-vintage) <br>
+  - [Simpl-Vintage](https://github.com/jean-assoumani/simpl-vintage) Créez un site complet avec WordPress sans utiliser de code. <br>
 - **HTML/CSS** : <br>
-  - Premiers pas sur le language HTML: [Riding Cities](https://github.com/jean-assoumani/riding-cities) <br>
-  - Créez la page d'accueil d'une agence de voyage avec HTML & CSS: [Booki](https://github.com/jean-assoumani/booki)
+  - [Riding Cities](https://github.com/jean-assoumani/riding-cities) Premiers pas sur le language HTML. <br>
+  - [Booki](https://github.com/jean-assoumani/booki) Créez la page d'accueil d'une agence de voyage avec HTML & CSS.
 - **JavaScript/CSS** : <br>
-  - Améliorez le site d'un studio d'animation avec JavaScript et des animations CSS: [Studio d'animation - Koukaki](https://github.com/jean-assoumani/studio-koukaki)
+  - [Studio d'animation - Koukaki](https://github.com/jean-assoumani/studio-koukaki) Améliorez le site d'un studio d'animation avec JavaScript et des animations CSS.
 - **En ligne bientôt** : 
 
 ## Où me trouver !
