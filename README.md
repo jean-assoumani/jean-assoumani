@@ -11,7 +11,7 @@ Je m'appelle Jean et je suis actuellement en formation de développeur web avec 
 
 ### 📚 Mes projets formation
 
-Pendant ma formation chez OpenClassrooms, j'ai eu l'occasion de travailler sur plusieurs projets intéressants, je suis en train de finaliser ces projets pour les mettre en ligne ici dès possible. N'hésite pas à revenir voir mes réalisations et à me donner ton avis ! : https://the-artbox.assoumani.pro/
+Pendant ma formation chez OpenClassrooms, j'ai eu l'occasion de travailler sur plusieurs projets intéressants, je suis en train de finaliser ces projets pour les mettre en ligne ici dès possible. N'hésite pas à revenir voir mes réalisations et à me donner ton avis ! 
 
 - **WordPress** : <br>
   - [Simpl-Vintage](https://github.com/jean-assoumani/simpl-vintage) Créez un site complet avec WordPress sans utiliser de code. <br>
