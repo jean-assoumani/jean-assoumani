@@ -22,6 +22,10 @@ Pendant ma formation chez OpenClassrooms, j'ai eu l'occasion de travailler sur p
 - **JavaScript/CSS** : <br>
   - [Studio d'animation - Koukaki](https://github.com/jean-assoumani/studio-koukaki) Améliorez le site d'un studio d'animation avec JavaScript et des animations CSS.
 
+### 📚 Autres projets
+- **Webflow to WordPress** : <br>
+  - [Kaybooth](https://kaybooth.assoumani.pro) Refonte d'un site Web de Webflow vers WordPress (2020). 
+
 ## Où me trouver !
 
 - [LinkedIn](https://www.linkedin.com/in/a-jean/)
