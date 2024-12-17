@@ -5,13 +5,14 @@
 
 ## À propos de moi
 
-Je m'appelle Jean et je suis actuellement en formation de développeur web avec une spécialisation WordPress chez OpenClassrooms. Je suis un passionné de la technologie, j'adore coder et développer des sites Internet, des applications, et c'est un plaisir de partager avec vous ! 🙂
+Je m'appelle Jean et je suis un passionné de la technologie, le développement durable et l'écoresponsabilité dans l'informatique. <br>J'adore coder et développer des sites Internet, des applications, et c'est un plaisir de partager avec vous ! 🙂
 
-## Projets
+## Projets <br>
+Suite à un changement d'hébergeur, certains liens pourraient ne pas être disponibles par moment, merci pour votre compréhension.
 
 ### 📚 Mes projets formation
 
-Pendant ma formation chez OpenClassrooms, j'ai eu l'occasion de travailler sur plusieurs projets intéressants, je suis en train de finaliser ces projets pour les mettre en ligne ici dès possible. N'hésite pas à revenir voir mes réalisations et à me donner ton avis !  
+Pendant ma dernère formation chez OpenClassrooms, j'ai eu l'occasion de travailler sur plusieurs projets intéressants dont voici quelques exemples :
 
 - **WordPress** : <br>
   - [Simpl-Vintage](https://github.com/jean-assoumani/simpl-vintage) Créez un site complet avec WordPress sans utiliser de code. <br>
@@ -36,4 +37,4 @@ Merci de ta visite et à bientôt ! 🚀
 ---
 
 *Jean*  
-*Étudiant développeur web chez [OpenClassrooms](https://openclassrooms.com/)*
+*Développeur front-end spécialisé WordPress*
