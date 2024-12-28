@@ -22,9 +22,11 @@ Pendant ma dernère formation chez OpenClassrooms, j'ai eu l'occasion de travail
   - [The Artbox](https://github.com/jean-assoumani/the-artbox) Premiers pas sur le langage PHP.
 - **JavaScript/CSS** : <br>
   - [Studio d'animation - Koukaki](https://github.com/jean-assoumani/studio-koukaki) Améliorez le site d'un studio d'animation avec JavaScript et des animations CSS.
+  - [Nathalie Mota](https://motaphoto.assoumani.pro/) Créez un site WordPress complexe pour une photographe freelance.
 
 ### 📚 Autres projets
 - **Webflow to WordPress** : <br>
+  - [Imprimerie BARRÉ](https://www.impbarre.fr/) Refonte & Design d'un site Web de HTML vers WordPress (2015). 
   - [Kaybooth](https://kaybooth.assoumani.pro) Refonte d'un site Web de Webflow vers WordPress (2020). 
 
 ## Où me trouver !
